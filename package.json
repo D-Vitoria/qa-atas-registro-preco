@@ -1,0 +1,12 @@
+{
+  "name": "projeto-qa-atas",
+  "version": "1.0.0",
+  "description": "Automação de testes com Cypress para Consulta de Atas",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^13.0.0"
+  }
+}
